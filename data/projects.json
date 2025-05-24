@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "new-life",
+    "title": "New Life",
+    "category": "Mobile Development",
+    "description": "Novo aplicativo mobile desenvolvido para gerenciamento de saúde e atividades diárias.",
+    "mainImage": "New-Life/WhatsApp Image 2025-04-22 at 13.15.02.jpeg",
+    "thumbnails": [],
+    "meta": [],
+    "techStack": ["React Native"],
+    "links": {}
+  },
+  {
+    "slug": "projeto-react-native",
+    "title": "Projeto React Native",
+    "category": "Mobile Development",
+    "description": "Aplicativo mobile para gerenciamento de projetos pessoais e finanças, desenvolvido em React Native. Permite ao usuário organizar tarefas, acompanhar metas financeiras, visualizar gráficos de desempenho e receber notificações personalizadas.",
+    "mainImage": "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16.jpeg",
+    "thumbnails": [
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-2.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-3.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-4.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-5.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-6.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-7.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-8.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-9.jpeg",
+      "Projeto-ReactNative/WhatsApp Image 2025-04-22 at 14.14.16-10.jpeg"
+    ],
+    "meta": [
+      {"title": "Cliente", "info": "Pessoal"},
+      {"title": "Data", "info": "Abril 2025"}
+    ],
+    "techStack": ["React Native", "Expo"],
+    "links": {"Demo ao Vivo": "#", "Código Fonte": "#"}
+  },
+  {
+    "slug": "3d-interactive-experience",
+    "title": "3D Interactive Experience",
+    "category": "3D & Unity",
+    "description": "Experiência interativa desenvolvida em Unity para demonstração de ambientes 3D.",
+    "mainImage": "https://images.unsplash.com/photo-1610986603166-f78428912a14?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "thumbnails": [],
+    "meta": [],
+    "techStack": ["Unity"],
+    "links": {}
+  },
+  {
+    "slug": "e-commerce-platform",
+    "title": "E-commerce Platform",
+    "category": "Web Development",
+    "description": "Plataforma de e-commerce desenvolvida com tecnologias modernas para venda online.",
+    "mainImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "thumbnails": [],
+    "meta": [],
+    "techStack": ["React", "Node.js", "MongoDB"],
+    "links": {}
+  },
+  {
+    "slug": "health-tracking-app",
+    "title": "Health Tracking App",
+    "category": "Mobile Development",
+    "description": "App mobile para monitoramento de saúde e atividades físicas.",
+    "mainImage": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "thumbnails": [],
+    "meta": [],
+    "techStack": ["Flutter"],
+    "links": {}
+  },
+  {
+    "slug": "virtual-reality-tour",
+    "title": "Virtual Reality Tour",
+    "category": "3D & Unity",
+    "description": "Tour de realidade virtual desenvolvido em Unity para experiências imersivas.",
+    "mainImage": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "thumbnails": [],
+    "meta": [],
+    "techStack": ["Unity"],
+    "links": {}
+  }
+]
